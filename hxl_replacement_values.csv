@@ -1,0 +1,11 @@
+#x_pattern,#x_substitution,#x_tag
+North,,#adm1+name
+South,,#adm1+name
+East,,#adm1+name
+West,,#adm1+name
+Centre,,#adm1+name
+Centre-North,,#adm1+name
+Centre-South,,#adm1+name
+Centre-East,,#adm1+name
+Centre-West,,#adm1+name
+
