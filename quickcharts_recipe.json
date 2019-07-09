@@ -27,6 +27,11 @@
           "#indicator+id": "CM_ECMR_C_IMR"
         }
         ],
+        "filtersWithout": [
+        {
+          "#adm1+name": ""
+        }
+        ],
         "aggregateColumns": [
           "#adm1+name"
         ],
@@ -52,6 +57,11 @@
           "#indicator+id": "HC_ELEC_H_ELC"
         }
         ],
+        "filtersWithout": [
+        {
+          "#adm1+name": ""
+        }
+        ],
         "aggregateColumns": [
           "#adm1+name"
         ],
@@ -75,6 +85,11 @@
         },
         {
           "#indicator+id": "ED_LITR_W_LIT"
+        }
+        ],
+        "filtersWithout": [
+        {
+          "#adm1+name": ""
         }
         ],
         "aggregateColumns": [
